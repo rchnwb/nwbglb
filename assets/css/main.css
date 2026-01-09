@@ -805,7 +805,10 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			/* Change From Original Font
+				font-family: 'Font Awesome 5 Brands';
+			*/
+			font-family: "Inter", sans-serif;
 		}
 
 /* List */
@@ -2073,5 +2076,6 @@ input, select, textarea {
 		#footer .copyright a {
 			color: inherit;
 		}
+
 
 
