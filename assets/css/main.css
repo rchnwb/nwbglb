@@ -326,7 +326,10 @@ input, select, textarea {
 	code {
 		background: #34363b;
 		border: solid 1px #36383c;
+		/* Change From Original Font of Source Sans Pro
 		font-family: "Courier New", monospace;
+		*/
+		font-family: "Inter", sans-serif;
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -334,7 +337,10 @@ input, select, textarea {
 
 	pre {
 		-webkit-overflow-scrolling: touch;
+		/* Change From Original Font of Source Sans Pro
 		font-family: "Courier New", monospace;
+		*/
+		font-family: "Inter", sans-serif;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -703,7 +709,10 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
+				/* Change From Original Font
 				font-family: 'Font Awesome 5 Free';
+				*/
+				font-family: "Inter", sans-serif;
 				font-weight: 900;
 			}
 
@@ -776,7 +785,10 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			/* Change From Original Font
+				font-family: 'Font Awesome 5 Free';
+			*/
+			font-family: "Inter", sans-serif;
 			font-weight: 400;
 		}
 
@@ -2061,4 +2073,5 @@ input, select, textarea {
 		#footer .copyright a {
 			color: inherit;
 		}
+
 
