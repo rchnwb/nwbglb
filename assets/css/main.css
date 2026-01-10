@@ -362,13 +362,6 @@ input, select, textarea {
 		text-align: right;
 	}
 
-	.profile-pic {
-	  width: 150px;       /* Set a specific width */
-	  height: 150px;      /* Set an equal height to ensure a circle */
-	  border-radius: 50%; /* Makes the image circular */
-	  object-fit: cover;  /* Ensures the image covers the area without distortion */
-	}
-
 /* Button */
 
 	input[type="submit"],
@@ -2056,3 +2049,4 @@ input, select, textarea {
 		#footer .copyright a {
 			color: inherit;
 		}
+
